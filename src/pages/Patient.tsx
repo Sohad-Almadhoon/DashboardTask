@@ -1,4 +1,3 @@
-import React from 'react'
 import PatientInfo from '../components/PatientPage/PatientInfo'
 import ImagesTabs from '../components/PatientPage/ImagesTabs'
 import FinishedEventsTable from '../components/PatientPage/FinishedEventsTable'

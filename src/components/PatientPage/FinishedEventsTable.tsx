@@ -1,10 +1,10 @@
-import * as React from 'react'
 import { DataGrid, GridColDef } from '@mui/x-data-grid'
 import Box from '@mui/material/Box'
 import data from '../../utils/data/eventsRows.json'
 import { Events } from '../../types'
 import { Typography } from '@mui/material'
 export default function FinishedEventsTable() {
+  //@ts-ignore
   const events: Events[] = data.eventsRows
   const columns: GridColDef[] = Object.keys(events[0]).map(column => ({
     field: column,

@@ -11,7 +11,7 @@ const UploadedImages = () => {
       sx={{ display: 'flex' }}
     >
       {['front', 'Back', 'Top', 'Left', 'Right'].map(dir => (
-        <ImageCard text={dir} src="" />
+        <ImageCard text={dir} />
       ))}
     </Grid>
   )
