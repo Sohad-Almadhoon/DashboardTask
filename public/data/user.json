@@ -1,0 +1,30 @@
+{
+  "user": {
+    "username": "Hussien Amar",
+    "img": "https://img.freepik.com/free-vector/doctor-doing-checkup-examination-old-patient-hospital-man-listening-breathing-with-stethoscope-senior-standing_575670-1555.jpg?w=360",
+    "email": "h.amar@elithair.de",
+    "phone": "+4930921803708",
+    "birthDate": "01.01.1990",
+    "languages": "English, Deutsch",
+    "role": "superadmin"
+  },
+  "operation": {
+    "opData": "02.02.2023",
+    "method": "DHI",
+    "treatmentArea": "Crown",
+    "graft": 5500
+  },
+  "flight": {
+    "arrival": "01.01.2023",
+    "depature": "01.01.2023"
+  },
+  "status": {
+    "phase": 3,
+    "tasks": "34 of 45",
+    "lastUpload": "09/09/2022"
+  },
+  "usage": {
+    "lastLogin": "Mon, 14 Aug",
+    "registrationCode": "abc123"
+  }
+}

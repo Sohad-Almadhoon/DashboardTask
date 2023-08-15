@@ -1,0 +1,21 @@
+{
+  "eventsRows": [
+    {
+      "id": 1,
+      "EventId": "E123",
+      "Title": "Product Launch",
+      "OS": "iOS",
+      "Phase": "Planning",
+      "IsDone": false
+    },
+    {
+      "id": 2,
+      "EventId": "E456",
+      "Title": "Marketing Campaign",
+      "OS": "Android",
+      "Phase": "Execution",
+      "IsDone": true
+    }
+  ]
+}
+
